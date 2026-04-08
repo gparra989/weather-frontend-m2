@@ -1,0 +1,46 @@
+/* Estilos generales */
+body {
+  font-family: Helvetica, sans-serif sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #F8F8FF;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+.hero {
+  background-image: url("../img/hero-wallpaper.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: fiexd;
+  width: 100%;
+  height: 15rem;
+}
+
+.acercade {
+  text-align: center;
+}
+.col p {
+text-align: center;
+}
+
+.col:hover {
+  cursor: pointer;
+}
+
+.card {
+  border-radius: 30px;
+}
+
+p {
+  text-align: justify;
+}
+
+
+footer {
+  color: white;
+  background-color: #191970;
+}
